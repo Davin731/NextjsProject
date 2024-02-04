@@ -24,5 +24,3 @@ function Ul(){
         ))}
     </ul>)
 }
-
-root.render(<HomePage />);
